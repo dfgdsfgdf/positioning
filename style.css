@@ -1,0 +1,22 @@
+.parent{
+    padding: 5px;
+    background-color: beige;
+}
+
+.child-one{
+
+    background-color: aqua;
+
+}
+
+.child-tow{
+    background-color: palevioletred;
+}
+
+.child-tree{
+    background-color: blueviolet;
+}
+
+.child{
+    padding: 5px;
+}
